@@ -1,3 +1,10 @@
+/**
+* Arquivo: somaDivisores
+* Autor: Gabriel Henrique Silva Marques
+* Matricula: 12111ETE017
+* Criado em: 04/11/2022
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
